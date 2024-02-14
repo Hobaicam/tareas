@@ -15,9 +15,9 @@ class Avion:
         self.modelo = modelo
         self.num_asientos = num_asientos
 
-#Inicialización
-carro1 = Carro("Toyota", "Camry")
-carro2 = Carro("Honda", "Accord")
+
+carro1 = Carro("Jeep", "Wrangler")
+carro2 = Carro("Ford", "Explorer")
 
 bote1 = Bote("Sea Ray", "Sundancer", 6)
 bote2 = Bote("Boston Whaler", "Montauk", 4)
